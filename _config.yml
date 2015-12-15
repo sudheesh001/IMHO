@@ -1,0 +1,70 @@
+# SITE CONFIGURATION
+baseurl: "/IMHO" # the subpath of your site, e.g. /blog/
+url: "http://sudheesh001.github.com" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: IMHO - In My Honest Opinion
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "A personal blog where I would be blogging about things I feel necessary and with a honest opinion stating my view point." # used by search engines
+
+  # Header and footer text
+  header_text: 
+  header_text_feature_image:
+  footer_text: >
+   Powered by <a href="http://github.com">Github Pages</a> and desire to voice an opinion
+
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: "sudheesh001"
+  flickr:
+  github: "sudheesh001/IMHO"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "sudheesh001"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
