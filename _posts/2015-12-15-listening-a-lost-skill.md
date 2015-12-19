@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Listening - A lost skill
+author: Sudheesh Singanamalla
 ---
 Listening is one of the key skills that a person should be possessing. It’s a beautiful combination of hearing what the other person has to say while at the same time being able to involve oneself into their thought. Listening is considered as a language skill but moreover overlaps itself into the space of a soft skill.
 
