@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/IMHO" # the subpath of your site, e.g. /blog/
-url: "http://sudheesh001.github.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sudheesh.space" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
